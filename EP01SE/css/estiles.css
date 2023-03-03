@@ -1,0 +1,38 @@
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  .map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
+  .op{
+    color: white;
+    background-color: black;
+  }
+  .ty{
+   font-size: 25px;;
+  }
+
+  #regis{
+    padding: 15%;
+  }
+  .nav-item{
+    color:black;
+  }
+  #menu{
+    background-color: black;
+  }
+
+  #buscar{
+    width: 100%;
+  }
+
+  .t{
+margin-right: -150px;;
+  } 
